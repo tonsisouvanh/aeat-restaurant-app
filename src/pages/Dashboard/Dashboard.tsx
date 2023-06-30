@@ -10,7 +10,6 @@ const Dashboard = () => {
       <div className="w-full overflow-hidden p-5">
         <Header />
         <main className="flex-grow">
-          {/* Your main content goes here */}
           <img className="w-full" src={dashboard} alt="" />
         </main>
       </div>

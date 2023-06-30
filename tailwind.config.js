@@ -7,6 +7,11 @@ export default {
         montserrat: ["Montserrat", "sans-serif"],
         gilroy: ["gilroy", "sans-serif"],
       },
+      colors: {
+        primary: "#45CFDD",
+        secondary: "#ecc94b",
+        textPrimary: "#001C30",
+      },
     },
   },
   plugins: [],
